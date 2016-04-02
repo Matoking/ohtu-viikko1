@@ -67,7 +67,15 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
             <version>${org.springframework.version}</version>
-        </dependency>   
+        </dependency>
+        
+        <!--  Gson: Java to Json conversion -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20160212</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>

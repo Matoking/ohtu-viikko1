@@ -10,7 +10,6 @@ public class AuthenticationService {
 
     private UserDao userDao;
 
-    @Autowired
     public AuthenticationService(UserDao userDao) {
         this.userDao = userDao;
     }

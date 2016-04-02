@@ -8,8 +8,8 @@
     <language>en-us</language>
     <copyright>&#169;2016</copyright>
     <item>
-      <title>File: 8,
-             Errors: 0,
+      <title>File: 9,
+             Errors: 3,
              Warnings: 0,
              Infos: 0
       </title>
@@ -109,6 +109,20 @@
                 </td>
                 <td>
                   0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#ohtu.data_access.FileUserDAO.java">ohtu/data_access/FileUserDAO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
               </tr>
                           <tr>

@@ -12,6 +12,11 @@
 </file>
 <file name="/home/matoking/FTP/odroid-xu4/home/odroid/git/ohtu-viikko3/src/main/java/ohtu/data_access/UserDao.java">
 </file>
+<file name="/home/matoking/FTP/odroid-xu4/home/odroid/git/ohtu-viikko3/src/main/java/ohtu/data_access/FileUserDAO.java">
+<error line="36" column="5" severity="error" message="Method length is 16 lines (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="58" column="5" severity="error" message="Method length is 17 lines (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="76" column="5" severity="error" message="Method length is 12 lines (max allowed is 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
 <file name="/home/matoking/FTP/odroid-xu4/home/odroid/git/ohtu-viikko3/src/main/java/ohtu/data_access/InMemoryUserDao.java">
 </file>
 <file name="/home/matoking/FTP/odroid-xu4/home/odroid/git/ohtu-viikko3/src/main/java/ohtu/App.java">
